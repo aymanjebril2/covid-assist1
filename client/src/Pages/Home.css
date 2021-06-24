@@ -34,3 +34,7 @@
 .logo_home span{
     color: tomato;
 }
+
+.mapWrapper{
+    height: 100vh;
+}

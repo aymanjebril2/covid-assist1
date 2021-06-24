@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme) => ({
     background: primaryColor,
     fontFamily,
     width: '100%',
-    position: 'fixed',
+    position: "relative",
     bottom: '0',
     '& p': {
       padding: '24px 0',

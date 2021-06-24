@@ -26,13 +26,17 @@ const HeaderLink = () => {
       <Link to="/aboutus">
         <li>ABOUT US</li>
       </Link>
-      <div>
-        <Link to="/signin">
+      <Link to="/aboutus">
+      <li to="/signin">
+      Sign in
+        {/* <Link to="/signin">
           <Button variant="contained" className={classes.btn}>
             Sign In
           </Button>
+        </Link> */}
+        </li>
         </Link>
-      </div>
+     
     </div>
   );
 };

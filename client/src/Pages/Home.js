@@ -10,7 +10,7 @@ const Home = () => {
           <h1 className>Helping New Yorker</h1> 
           <h1 className="logo_home"><span>COVID-</span>ASSIST</h1>   
           </div>
-          
+        
         </div>
         <CovidT/>
         </div>
