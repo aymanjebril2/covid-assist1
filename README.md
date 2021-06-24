@@ -8,7 +8,7 @@
   <h1 align="center">Covid Assist</h1>
 
   <p align="center">
-    Covid-Assist is a cross platform application that is a hub for Covid-19 related resources, where the users will receive resources based on mental health, shelter, and food assistance.
+
     <br />
     <a href="https://github.com/aymanjebril2/covid-assist1"><strong>🔍Explore the Docs »</strong></a>
     <br />
@@ -55,6 +55,14 @@
 5. Go to http://localhost:3000 to view the application
 
 
+ <a href="https://github.com/aymanjebril2/covid-assist1">
+    <!-- <img src="" alt="Logo"> -->
+  </a>
+  
+## Description
+
+Covid-Assist is a cross platform application that is a hub for Covid-19 related resources, where the users will receive resources based on mental health, shelter, and food assistance.
+    
  <a href="https://github.com/aymanjebril2/covid-assist1">
     <!-- <img src="" alt="Logo"> -->
   </a>
