@@ -9,6 +9,8 @@ import SignIn from './Pages/SignIn';
 import SignUp from './Pages/SignUp';
 import Header from './components/Header/Header';
 import AboutUs from './Pages/AboutUs'
+import FooterLink from './components/Footer/FooterLink'
+
 
 function App() {
   return (
@@ -26,6 +28,9 @@ function App() {
      <Route path="/signin" exact component={SignIn}/>
      <Route path="/signup" exact component={SignUp}/>
      </Switch>
+     <FooterLink/>
+     
+  
     </div>
   );
 }
