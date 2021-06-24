@@ -19,7 +19,6 @@
     ·
     <a href="https://github.com/aymanjebril2/covid-assist1">✍🏽Request Feature</a>
   </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
