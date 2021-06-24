@@ -54,9 +54,6 @@
 4. Run `npm start`
 5. Go to http://localhost:3000 to view the application
 
-## Description
-
-Search and compare colleges: their fields of study, costs, admissions, results, and more.
 
  <a href="https://github.com/aymanjebril2/covid-assist1">
     <!-- <img src="" alt="Logo"> -->
