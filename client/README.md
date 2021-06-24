@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/aymanjebril2/covid-assist1">
+    <img src="src\images\banner.png" alt="Logo">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h1 align="center">Covid Assist</h1>
 
-## Available Scripts
+  <p align="center">
+    Covid-Assist is a cross platform application that is a hub for Covid-19 related resources, where the users will receive resources based on mental health, shelter, and food assistance.
+    <br />
+    <a href="https://github.com/aymanjebril2/covid-assist1"><strong>🔍Explore the Docs »</strong></a>
+    <br />
+    <br />
+    <a href="">👀 View Demo</a>
+    ·
+    <a href="https://github.com/aymanjebril2/covid-assist1">🐛Report Bug</a>
+    ·
+    <a href="https://github.com/aymanjebril2/covid-assist1">✍🏽Request Feature</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#installation">Installation</a>
+      <li>
+      <a href="#overview">Overview</a>
+      <ul>
+        <li><a href="#description">Description</a></li>
+         <li><a href="#wireframes">Wireframes</a></li>
+         <li><a href="#api">API</a></li>
+         <li><a href="#mvp">MVP</a></li>
+      </ul>
+    </li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#our-team">Our Team</a></li>
+  </ol>
+</details>
 
-### `yarn start`
+<!-- ABOUT THE PROJECT -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Overview
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## How to Run
 
-### `yarn test`
+1. Fork and clone the repo
+2. Must be using node v14 or higher
+3. Run `npm install`
+4. Run `npm start`
+5. Go to http://localhost:3000 to view the application
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Description
 
-### `yarn build`
+Search and compare colleges: their fields of study, costs, admissions, results, and more.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ <a href="https://github.com/aymanjebril2/covid-assist1">
+    <!-- <img src="" alt="Logo"> -->
+  </a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Wireframes - Desktop
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="https://github.com/aymanjebril2/covid-assist1">
+    <img src="src\images\desktop.png" alt="Logo">
+  </a>
 
-### `yarn eject`
+## API
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+We are using the - [Covid Tracker](https://github.com/RTICWDT/open-data-maker/blob/master/API.md)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ <!-- which gives the following information:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- All Institution-level data files for 1996-97 through 2018-19
+- Most Recent Institution-Level Data
+- Most Recent Data by Field of Study
+- Field of study-level data files for the pooled 2014-15, 2015-16 award years through the pooled 2016-17, 2017
+- Crosswalk files for 2000-01 through 2018-19 that link the Department’s OPEID with an IPEDS UNITID for each institution
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- BUILT WITH -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Built With
 
-### Code Splitting
+This project was built using React JS, JavaScript, CSS, and Material UI on the frontend.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [JavaScript](https://javascript.com)
+- [ReactJS](https://reactjs.org)
+- [U.S. Department of Education College Scorecard](https://github.com/RTICWDT/open-data-maker/blob/master/API.md)
+- [Material UI](https://material-ui.com/)
 
-### Analyzing the Bundle Size
+<!-- ACKNOWLEDGEMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Acknowledgements
 
-### Making a Progressive Web App
+- [Img Shields](https://shields.io)
+- [FontAwesome](https://fontawesome.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- CONTACT -->
 
-### Advanced Configuration
+## Our Team
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Ayman Omer - [LinkedIn](https://www.linkedin.com/in/ayman-omer-b2429b1ab/)
+- Katherine Fernandez - [LinkedIn](https://www.linkedin.com/in/katfernandez22/)
+- Shan Siddiqui - [LinkedIn](https://www.linkedin.com/in/ssiddiqui007/)
