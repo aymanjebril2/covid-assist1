@@ -1,5 +1,6 @@
 .main_home{
     background-color: black;
+    
 }
 .home_div{
    
@@ -13,6 +14,7 @@
   align-items:center;
   text-align:center;
   padding:0 20px;
+ 
  
 }
 
@@ -33,4 +35,7 @@
 }
 .logo_home span{
     color: tomato;
+}
+.footer_div{
+margin-top: 100px;
 }

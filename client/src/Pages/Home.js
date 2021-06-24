@@ -4,6 +4,7 @@ import CovidT from '../components/CovidT/CovidT'
 
 const Home = () => {
     return (
+      <>
       <div className="main_home">
         <div className="home_div">
           <div className="slogen_home">
@@ -12,8 +13,13 @@ const Home = () => {
           </div>
           
         </div>
+        <div className="footer_div">
+          
         <CovidT/>
         </div>
+        </div>
+        
+        </>
     )
 }
 
