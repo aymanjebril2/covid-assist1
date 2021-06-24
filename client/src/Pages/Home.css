@@ -1,5 +1,6 @@
 .main_home{
     background-color: black;
+    
 }
 .home_div{
    
@@ -13,6 +14,7 @@
   align-items:center;
   text-align:center;
   padding:0 20px;
+ 
  
 }
 
@@ -34,7 +36,12 @@
 .logo_home span{
     color: tomato;
 }
+<<<<<<< HEAD
 
 .mapWrapper{
     height: 100vh;
+=======
+.footer_div{
+margin-top: 100px;
+>>>>>>> 5273285ed9c2c7af10268a52a707a0db28d2b61f
 }
