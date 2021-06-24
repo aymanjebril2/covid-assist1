@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Sheleter = () => {
+const Shelter = () => {
     return (
         <div>
            <h1>shelter</h1> 
@@ -8,4 +8,4 @@ const Sheleter = () => {
     )
 }
 
-export default Sheleter
+export default Shelter

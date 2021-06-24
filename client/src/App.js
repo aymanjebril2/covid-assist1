@@ -3,7 +3,7 @@ import './App.css';
 import { Switch, Route } from "react-router-dom";
 import Home from './Pages/Home';
 import Food from './Pages/Food';
-import Sheleter from './Pages/Sheleter';
+import Shelter from './Pages/Shelter';
 import MentalHealth from './Pages/MentalHealth';
 import SignIn from './Pages/SignIn';
 import SignUp from './Pages/SignUp';
@@ -20,7 +20,7 @@ function App() {
      <Switch>
      <Route path="/" exact component={Home}/>
      <Route path="/food" exact component={Food}/>
-     <Route path="/shelter" exact component={Sheleter}/>
+     <Route path="/shelter" exact component={Shelter}/>
      <Route path="/mentalhealth" exact component={MentalHealth}/>
      <Route path="/aboutus" exact component={AboutUs}/>
      <Route path="/signin" exact component={SignIn}/>
