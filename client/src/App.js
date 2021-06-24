@@ -11,6 +11,7 @@ import Header from './components/Header/Header';
 import AboutUs from './Pages/AboutUs'
 import FooterLink from './components/Footer/FooterLink'
 
+
 function App() {
   return (
     <div className="app">
@@ -28,6 +29,8 @@ function App() {
      <Route path="/signup" exact component={SignUp}/>
      </Switch>
      <FooterLink/>
+     
+  
     </div>
   );
 }
