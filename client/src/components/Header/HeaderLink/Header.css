@@ -1,0 +1,41 @@
+.div_link{
+    display: flex;
+    justify-content: space-evenly;
+    flex: 1;
+}
+
+li{
+    color:white;
+    font-size: large;
+    list-style-type: none;
+    margin: 10px;
+    font-weight: 800;
+    
+}
+a{
+    text-decoration: none;
+}
+li:hover {
+    color:#21629A;
+  }
+  li:active {
+    color: #21629A;
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    li{
+        color:white;
+        font-size: small;
+        list-style-type: none;
+        margin: 8px;
+        
+    }
+.MuiButton-label{
+       font-size: x-small;
+       width: 20px;
+       height: 20px;
+    }
+  }
+  
+

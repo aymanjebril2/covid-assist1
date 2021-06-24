@@ -1,0 +1,36 @@
+.main_home{
+    background-color: black;
+}
+.home_div{
+   
+    background-image: url("./img/nyc.png")  ;
+    background-size:cover;
+  background-position:center;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  padding:0 20px;
+ 
+}
+
+.home_div .slogen_home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    color: snow;
+}
+
+.home_div .logo_home{
+    font-weight: 800;
+    font-size: 80px;
+    margin-top: -5px;
+    
+}
+.logo_home span{
+    color: tomato;
+}

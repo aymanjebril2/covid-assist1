@@ -1,0 +1,14 @@
+.main_chartDiv{
+    background-color: #111
+}
+.chart_div1{
+margin: 30px auto;
+   
+    width: 800px;
+    /* height: 40px; */
+}
+
+.header_h1{
+    color: white;
+    text-align: center;
+}
