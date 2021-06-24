@@ -89,7 +89,6 @@ This project was built using React JS, JavaScript, CSS, and Material UI on the f
 
 - [JavaScript](https://javascript.com)
 - [ReactJS](https://reactjs.org)
-- [U.S. Department of Education College Scorecard](https://github.com/RTICWDT/open-data-maker/blob/master/API.md)
 - [Material UI](https://material-ui.com/)
 
 <!-- ACKNOWLEDGEMENTS -->
