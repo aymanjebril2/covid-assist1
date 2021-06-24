@@ -52,3 +52,32 @@
 	height: 42px;
 	width: auto;
 }
+
+.shelter-list {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.shelter-styles h1 {
+	padding: 0 1em;
+}
+
+.shelter-list li {
+	color: #0060b6;
+	font-size: 2rem;
+	border: 2px solid blue;
+	padding: 1rem;
+	list-style-type: none;
+}
+
+.shelter-list a {
+	text-decoration: none;
+	margin: 10px 0;
+}
+
+.shelter-list a:hover {
+	color: #00a0c6;
+	text-decoration: none;
+	cursor: pointer;
+}
