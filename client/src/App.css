@@ -37,11 +37,13 @@
 	}
 }
 
+/* food page */
+
 .map-description {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	text-align: right;
+	text-align: center;
 	font-size: 2rem;
 	width: 50%;
 	margin: 0 auto;
@@ -53,11 +55,14 @@
 	width: auto;
 }
 
+/* shelter page */
+
 .shelter-list {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	margin-bottom: 100px;
 }
 .shelter-styles h1 {
 	padding: 0 1em;
@@ -80,4 +85,46 @@
 	color: #00a0c6;
 	text-decoration: none;
 	cursor: pointer;
+}
+/* team page */
+
+.team-page {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.teamdiv {
+	text-align: center;
+	margin: 0 1em;
+	padding: 2em;
+}
+
+.teamname {
+	color: rgb(9, 9, 84);
+}
+
+.teamdiv .title {
+	font-size: 1.5rem;
+}
+
+.teamdiv p {
+	font-size: 2rem;
+}
+
+.team-page .profile {
+	height: 300px;
+	border-radius: 100%;
+	width: auto;
+	filter: drop-shadow(2px 4px 4px #000000);
+}
+
+.team-page .linkedin {
+	height: 40px;
+}
+
+.head-title {
+	text-align: center;
+	padding: 2em 1em;
 }
